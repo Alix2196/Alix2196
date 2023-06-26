@@ -1,4 +1,4 @@
-<h2 align="left">¡Hola 👋! Mi nombre es Alix y soy Desarrolladora Front-End, de Colombia</h2>
+<h2 align="left">¡Hi👋! my name is Alix, I'm a frontend developer in Colombia, take a look</h2>
 
 ###
 
